@@ -75,7 +75,7 @@
         
         <!-- Navigation bar -->
         <NavBar />
-        <MobileNav v-if="isMobile" />
+        <!-- <MobileNav v-if="isMobile" /> -->
 
         <main>
             <!-- Section 1 -->
